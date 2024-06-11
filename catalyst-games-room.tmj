@@ -714,7 +714,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"catalyst.png"
+         "value":"games-room.png"
         }, 
         {
          "name":"mapName",

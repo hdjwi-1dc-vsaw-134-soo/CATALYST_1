@@ -681,7 +681,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"catalyst.png"
+         "value":"exhibition-space.png"
         }, 
         {
          "name":"mapName",

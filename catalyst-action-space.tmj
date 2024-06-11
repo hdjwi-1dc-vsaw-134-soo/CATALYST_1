@@ -702,7 +702,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"catalyst.png"
+         "value":"action-space.png"
         }, 
         {
          "name":"mapName",

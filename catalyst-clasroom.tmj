@@ -652,7 +652,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"catalyst.png"
+         "value":"classroom.png"
         }, 
         {
          "name":"mapName",

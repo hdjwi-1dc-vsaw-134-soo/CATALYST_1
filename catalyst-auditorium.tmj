@@ -654,7 +654,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"catalyst.png"
+         "value":"auditorium.png"
         }, 
         {
          "name":"mapName",
